@@ -1,4 +1,4 @@
-# TO_DO_LIST
+# TO-DO-LIST
 Easy To-Do-List (Приложение Заметки).
 
 Инструкция к приминению:
